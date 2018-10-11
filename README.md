@@ -2,6 +2,8 @@
 It is a ActiveRecord tutorial
 and SQL like following:
 
+<pre><code>
+
 CREATE TABLE Blogs (
     blog_id     int IDENTITY(1, 1) PRIMARY KEY,
     blog_name   varchar(50),
@@ -17,5 +19,6 @@ CREATE TABLE Posts (
     post_created   datetime,
     post_published bit
 )
+</code></pre>
 
 enjoy it!
