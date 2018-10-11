@@ -1,0 +1,13 @@
+C:\System\project\net2012\AR001\AR001\obj\Debug\AR001.exe
+C:\System\project\net2012\AR001\AR001\obj\Debug\AR001.pdb
+C:\System\project\net2012\AR001\AR001\bin\Debug\AR001.exe.config
+C:\System\project\net2012\AR001\AR001\bin\Debug\AR001.exe
+C:\System\project\net2012\AR001\AR001\bin\Debug\AR001.pdb
+C:\System\project\net2012\AR001\AR001\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\System\project\net2012\AR001\AR001\bin\Debug\NHibernate.dll
+C:\System\project\net2012\AR001\AR001\bin\Debug\Castle.Components.Validator.dll
+C:\System\project\net2012\AR001\AR001\bin\Debug\Iesi.Collections.dll
+C:\System\project\net2012\AR001\AR001\bin\Debug\NHibernate.Search.dll
+C:\System\project\net2012\AR001\AR001\bin\Debug\Castle.ActiveRecord.pdb
+C:\System\project\net2012\AR001\AR001\bin\Debug\Castle.Core.xml
+C:\System\project\net2012\AR001\AR001\bin\Debug\Castle.Components.Validator.xml
